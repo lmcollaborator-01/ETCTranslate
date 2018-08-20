@@ -99,7 +99,7 @@
     "max_bets_amount": "下注上限",
     "not_bets_tip1": "Tùy chọn này đang trong khối xác nhận chuỗi,sau một thời gian hãy chú ý đến tình trạng cá cược",
     "not_bets_tip2": "Xin lỗi, tùy chọn này không có sẵn cho cá cược trong loại tiền tệ này",
-    "not_bets_tip3": "非常抱歉，该选项当前币种下注已截止"
+    "not_bets_tip3": "Cửa dự đoán đã khoá sổ, không thể đặt cược"
   },
   "zh-Hant": {
     "detail_forecast_title": "{currency}預測",
