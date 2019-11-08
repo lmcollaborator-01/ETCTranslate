@@ -35,10 +35,10 @@
 		"centralization": "賬號投註"
 	},
 	"vi": {
-		"content_title_word_cup": "足球",
-		"content_title_number_coin": "数字货币",
-		"content_title_detail": "预测细则",
-		"content_title_guide": "新手引导",
-		"centralization": "账号投币"
+		"content_title_word_cup": "bóng đá",
+		"content_title_number_coin": "số tiền dự đoán",
+		"content_title_detail": "chi tiết dự đoán",
+		"content_title_guide": "hướng dẫn cho người chơi mới",
+		"centralization": "tài khoản dự đoán"
 	}
 }
